@@ -1,3 +1,4 @@
+**2) IOC**
 ```
 Inversion of Control (IoC)
 Dependency Injection 
